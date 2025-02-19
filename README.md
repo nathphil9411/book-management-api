@@ -12,7 +12,7 @@ A simple RESTful API built with Deno and Hono for managing books. This project d
 
 ```bash
 git clone <your-repository-url>
-cd book-api
+cd book-management-api
 ```
 
 2. No additional dependencies need to be installed as Deno manages them automatically.
