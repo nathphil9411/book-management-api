@@ -11,7 +11,7 @@ A simple RESTful API built with Deno and Hono for managing books. This project d
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone GitHub.com/nathphil9411/book-management-api
 cd book-management-api
 ```
 
