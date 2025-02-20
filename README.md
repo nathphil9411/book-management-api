@@ -108,7 +108,7 @@ curl -X DELETE http://localhost:8000/books/1
 
 ```
 book-api/
-├── app.ts         # Main application file
+├── book.ts         # Main application file
 ├── README.md      # Project documentation
 └── .gitignore     # Git ignore file
 ```
